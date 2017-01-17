@@ -1,91 +1,85 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Alex Taylor's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Alex Taylor
+Lead Developer
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="alex@adlist.co.nz">alex@adlist.co.nz</a>
+| <a href="https://github.com/Alex-iFactory">My Github</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+I am employed as the Lead Developer at a digital agency called iFactory.
 
-### Specialized in
+### Role
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+As Lead Developer, I am responsible for the smooth running of a large portion of ongoing projects. This involves ensuring a high standard of development, while maintaining proper company guidelines and technologies.
 
+### Skills
 
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
+NodeJS, PHP, Nginx, React/ReactNative, Ionic, Angular/Angular2, Symfony, MySQL.
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+`2011-2014`
+__BA Business Management, Open Polytechnic of NZ__
 
 
+## Employment
 
-## Awards
+`September 2014 - current`
+__Lead Developer__, iFactory Digital
 
-`2012`
-President, *Royal Society*, London, UK
+- Web Development
+- Application Development
+- Team Management
 
-Associate, *French Academy of Science*, Paris, France
+As lead developer at iFactory, I am responsible for ensuring a high standard of work over every developer in the company. My tasks generally involve researching and consulting the technology stack to use for a project, talking with clients about development processes and expectations, building and maintaining a good working environment, and what would normally be expected from a standard developer. In this role I would say I am a FullStack developer cross development lead.
 
+`June 2014 - September 2014`
+__Lead Developer__, BlahTherapy.com
 
+- Web Development
+- Application Development
 
-## Publications
+BlahTherapy originally hired me to rebuild their heavily active chat application, this application would routinely hold between 300 and 1000 active conversations, and thus at least double that in users. My task was to rebuild this chat application, roadmap the implementation, and ensure the scaleability and performance of the legacy system during transition.
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+`January 2014 - September 2014`
+__Lead Developer__, EpicWriter
 
-### Journals
+- Web Development
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+EpicWriter, a book writing application for children, was an application I built for a company called Coleman Creative in New Zealand which was aimed at school children to help them grow their storytelling skills. It involved a lot of drag and drop style UI, as well as a lot of cross platform functional testing. EpicWriter won innovateNZ (a startup competition) shortly before the app was completed.
 
-`1669`
-Lectiones opticæ.
+`November 2013 - March 2014`
+__Developer__, Guang Yi Company Limited
 
-etc. etc. etc.
+- Application Development
 
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+Guang Yi Company Limited buys and sells used phones in China; with a turnover at the time of building this application of $200m USD, the requirements, building, and testing of the application that helped bulk auction their inventory was my sole responsibility. I was tasked with building an auction application that could scale quickly, while maintaining a strong functional test base.
 
 
+## Personal Projects
+
+__EdenJS__, NodeJS Isomorphic Framework
+
+[EdenJS](https://github.com/eden-js/eden/) is a NodeJS based isomorphic MVC framework written to bridge the gap between Symfony2 style development, and NodeJS development. Based on [RiotJS](http://riotjs.com/), [Mongorito](https://github.com/vadimdemedes/mongorito), [SocketIO](http://socket.io/) and [ExpressJS](http://expressjs.com/). It required mastery of those technologies, while maintaining a simple to use development style.
+
+__ChivalryIO__, Online Wingman
+
+ChivalryIO was a NodeJS based personal wingman, which employed a mixture of human and NLP/Machine Learned responses that would attempt to find and book users last minute dates when they needed them.
+
+__RentLar__, Rental management application
+
+RentLar is a NodeJS based rental management platform. It provides a platform for landlords to manage and analyze their rental properties. Providing rent estimates, maintenance tracking, bank reconciliation, and accounting reports, this platform is allowing me to dive into more business focused development.
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: January 2017 -->
 
 
