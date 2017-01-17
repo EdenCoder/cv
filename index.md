@@ -32,7 +32,7 @@ __BA Business Management, Open Polytechnic of NZ__
 
 ## Employment
 
-`September 2014 - current`
+`Sep 2014 - Current`
 __Lead Developer__, iFactory Digital
 
 - Web Development
@@ -41,7 +41,7 @@ __Lead Developer__, iFactory Digital
 
 As lead developer at iFactory, I am responsible for ensuring a high standard of work over every developer in the company. My tasks generally involve researching and consulting the technology stack to use for a project, talking with clients about development processes and expectations, building and maintaining a good working environment, and what would normally be expected from a standard developer. In this role I would say I am a FullStack developer cross development lead.
 
-`June 2014 - September 2014`
+`June 2014 - Sep 2014`
 __Lead Developer__, BlahTherapy.com
 
 - Web Development
@@ -49,14 +49,14 @@ __Lead Developer__, BlahTherapy.com
 
 BlahTherapy originally hired me to rebuild their heavily active chat application, this application would routinely hold between 300 and 1000 active conversations, and thus at least double that in users. My task was to rebuild this chat application, roadmap the implementation, and ensure the scaleability and performance of the legacy system during transition.
 
-`January 2014 - September 2014`
+`Jan 2014 - Sep 2014`
 __Lead Developer__, EpicWriter
 
 - Web Development
 
 EpicWriter, a book writing application for children, was an application I built for a company called Coleman Creative in New Zealand which was aimed at school children to help them grow their storytelling skills. It involved a lot of drag and drop style UI, as well as a lot of cross platform functional testing. EpicWriter won innovateNZ (a startup competition) shortly before the app was completed.
 
-`November 2013 - March 2014`
+`Nov 2013 - March 2014`
 __Developer__, Guang Yi Company Limited
 
 - Application Development
