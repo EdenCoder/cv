@@ -1,57 +1,64 @@
-markdown-cv
-===========
+# Alex Taylor's Resume
 
-A curriculum vitae maintained in plain text and rendered to html and pdf using CSS.
+This repository contains my professional resume, maintained in Markdown and rendered to HTML and PDF using CSS.
 
-For more details see the [project page](http://elipapa.github.io/markdown-cv) or the blog post on [why I switched to markdown for my CV](http://elipapa.github.io/blog/why-i-switched-to-markdown-for-my-cv.html).
+## About
 
-***
+I'm Alex Taylor, an Engineer, Founder, and Developer specializing in AI and ML. This resume showcases my professional experience, skills, and personal projects.
 
-## Usage
+## Current Role
 
-To start, simply [fork the markdown-cv repo](https://github.com/elipapa/markdown-cv)
+Founder and CEO at Chirper.ai, the world's first AI-only social network.
 
-![](https://help.github.com/assets/images/help/repository/fork_button.jpg)
+## Key Skills
 
-and then [edit directly in github](https://help.github.com/articles/editing-files-in-your-repository/) the `index.md` file
+- AI/ML
+- Full-stack Development
+- Leadership
+- Entrepreneurship
+- Open Source Contribution
+- RAG (Retrieval-Augmented Generation)
+- Attention Learning
 
-![](https://help.github.com/assets/images/help/repository/edit-file-edit-button.png)
+## Notable Projects
 
-adding your skills, jobs and education.
+- **Hokoup**: AI Salesperson with pioneering RAG and attention learning logic
+- **CraftIQ**: Core AI engine powering Chirper
+- **ComfyUI Contributions**: Active participation in open-source ML/AI projects
+- **React 19 Signals Implementation**: Advanced React architecture work
 
-![](https://help.github.com/assets/images/help/repository/edit-readme-light.png)
+## Viewing the Resume
 
-To transform your plain text CV into a beautiful looking HTML page and share it you then have two options:
+### Online Version
 
-## Using Github Pages to publish it online
+You can view the most current version of my resume at: [Your GitHub Pages URL]
 
-1. Delete the existing `gh-pages` branch from your fork. It will only contain this webpage. You can either use git or [the github web interface](https://help.github.com/articles/creating-and-deleting-branches-within-your-repository/#deleting-a-branch)
-2. Create a new branch called `gh-pages` (which will then be a copy of master)
-3. Head to *yourusername*.github.io/markdown-cv to see your CV live.
+### Local Build and PDF Generation
 
-Any change you want to make to your CV from then on would have to be done on the `gh-pages` branch and will be immediately rendered by Github Pages.
+1. Ensure you have [Jekyll](https://jekyllrb.com/docs/installation/) installed.
+2. Clone this repository.
+3. Run `jekyll serve` in the repository directory.
+4. View the resume at `http://localhost:4000`.
+5. To generate a PDF, use your browser's print function. The CSS is optimized for both web and print media.
 
+## Updating the Resume
 
-## Build it locally and print a PDF
-1. [install jekyll](https://jekyllrb.com/docs/installation/) on your computer. `gem install jekyll` will do for most users.
-2. Clone your fork on your computer
-3. Type `jekyll serve` and you'll be able to see your CV on your local host (the default address is http://localhost:4000).
-4. You can edit the `index.md` file and see changes live in your browser.
-5. To print a PDF, just press *Print*. Print and web CSS media queries should take care of the styling.
+The resume content is in the `index.md` file. To update:
 
+1. Edit `index.md` with your changes.
+2. Commit and push to the `gh-pages` branch.
+3. GitHub Pages will automatically rebuild and deploy the updated resume.
 
-### is this the only style available?
+## Contact
 
-For the moment, yes.
-The included CSS renders CV in a style inspired by [kjhealy's vita template](https://github.com/kjhealy/kjh-vita), but any styling is possible. Contributions and forks are welcome!
+- Email: alex@chirper.ai
+- GitHub: [Your GitHub Profile URL]
+- LinkedIn: [Your LinkedIn Profile URL]
 
+## License
 
-### Author
+[MIT License](LICENSE)
 
-Eliseo Papa ([Twitter](http://twitter.com/elipapa)/[GitHub](http://github.com/elipapa)/[website](https://elipapa.github.io)).
+---
 
-![Eliseo Papa](https://s.gravatar.com/avatar/eae1f0c01afda2bed9ce9cb88f6873f6?s=100)
-
-### License
-
-[MIT License](https://github.com/elipapa/markdown-cv/blob/master/LICENSE)
+This resume is based on the [markdown-cv](https://github.com/elipapa/markdown-cv) project by Eliseo Papa, modified to suit my personal needs.
